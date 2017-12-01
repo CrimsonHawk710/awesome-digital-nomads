@@ -45,6 +45,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [WiFi Tribe](http://wifitribe.co) - Coworking retreat which allows you to hop on or off at any point, stay a month, or a year to explore a whole continent with like-minded individuals, one country at a time.
 - [Wifly Nomads](https://wiflynomads.com) - A brand new retreat launching in September 2017 designed to help fledgling nomads build startups, find remote work opportunities and learn nomadic lifestyle fundamentals.
 - [Nomad Cruise](http://nomadcruise.com) - Join over 150 other remote workers, entrepreneurs and digital nomads on a 15-day coworking cruise across the atlantic.
+- [Local Nomads](http://localnomads.com) - Join a small community of up to 15 for a 4 month trip through SE Asia. Focus on personal growth, professional development, community, and volunteerism.
 
 ## Flights
 - [Kiwi.com](http://kiwi.com) - Advanced flexible search tool for finding cheap flights.
@@ -185,11 +186,14 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Destination Guides
 - [Ubud, Bali](http://www.neverendingvoyage.com/digital-nomad-guide-living-in-ubud/)
+- [Canggu, Bali](http://localnomads.com/canggu-bali-guide-digital-nomads/)
 - [Medellín, Colombia](http://www.webworktravel.com/medellin-digital-nomad/#wheretowork)
 - [Galápagos Islands, Ecuador](http://www.webworktravel.com/digital-nomad-guide-galapagos-islands/)
 - [Tarifa, Spain](http://www.webworktravel.com/tarifa-digital-nomad-guide/)
 - [Chiang Mai, Thailand](http://www.johnnyfd.com/2015/07/johnnys-guide-to-chiang-mai-thailand.html)
 - [Hoi An, Vietnam](http://www.neverendingvoyage.com/digital-nomad-hoi-an-guide/)
+- [Greece](http://localnomads.com/greece-guide-digital-nomads/)
+
 
 
 ## License
